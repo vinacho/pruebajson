@@ -1,22 +1,22 @@
 {
     "tokens": [
         {
+            "id": 0,
+            "description": "Racing Club",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Escudo_de_Racing_Club_%282014%29.svg/1200px-Escudo_de_Racing_Club_%282014%29.svg.png",
+            "name": "Racing Club #1"
+        },
+        {
             "id": 1,
-            "description": "Deportes Tolima Campeón",
-            "image": "https://dystopianpunks.com/wp-content/uploads/2021/05/Tolima.png",
-            "name": "DeportesTolima #1"
+            "description": "Racing Club",
+            "image": "https://marcadegol.com/fotos//2021/04/review-camiseta-titular-kappa-de-racing-club-2021-portada.jpg",
+            "name": "Racing Club #2"
         },
         {
             "id": 2,
-            "description": "Deportes Tolima Campeón",
-            "image": "https://dystopianpunks.com/wp-content/uploads/2021/05/Tolima-3.jpg",
-            "name": "DeportesTolima #2"
-        },
-        {
-            "id": 3,
-            "description": "Deportes Tolima Campeón",
-            "image": "https://dystopianpunks.com/wp-content/uploads/2021/05/Tolima-2.jpg",
-            "name": "DeportesTolima #3"
+            "description": "Racing Club",
+            "image": "https://i.pinimg.com/originals/f4/87/b4/f487b4a30bee023ceb9203c4527177f6.png",
+            "name": "Racing Club #3"
         }
     ]
 }
