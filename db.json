@@ -1,0 +1,22 @@
+{
+    "tokens": [
+        {
+            "id": 1,
+            "description": "Deportes Tolima Campeón",
+            "image": "https://dystopianpunks.com/wp-content/uploads/2021/05/Tolima.png",
+            "name": "DeportesTolima #1"
+        },
+        {
+            "id": 2,
+            "description": "Deportes Tolima Campeón",
+            "image": "https://dystopianpunks.com/wp-content/uploads/2021/05/Tolima-3.jpg",
+            "name": "DeportesTolima #2"
+        },
+        {
+            "id": 3,
+            "description": "Deportes Tolima Campeón",
+            "image": "https://dystopianpunks.com/wp-content/uploads/2021/05/Tolima-2.jpg",
+            "name": "DeportesTolima #3"
+        }
+    ]
+}
